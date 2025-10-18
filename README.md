@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm S M Tahnim Mahir</h1>
-<h3 align="center">I'm passionate Data Analyest & Product Management Enthusiast from Bangladesh</h3>
+<h3 align="center">I'm passionate AI, Product Management and Business Analyst Enthusiast from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smtanimmahir&label=Profile%20views&color=0e75b6&style=flat" alt="smtanimmahir" /> </p>
 
 - 🔭 I’m currently Graduate Computer Science & Engineering(CSE) at **Premier University, Chittagong**
 
-- 🌱 I’m currently learning ** AI, Product Management, Data Analyst, Data Science **
+- 🌱 I’m currently learning ** AI **, **Product Management** , **Data Analyst**, **Data Science **
 
 - 👨‍💻 All of my projects are available at [https://smtahnimmahir.netlify.app](https://smtahnimmahir.netlify.app)
 
