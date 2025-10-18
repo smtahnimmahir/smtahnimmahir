@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Graduate Computer Science & Engineering(CSE) at **Premier University, Chittagong**
 
-- 🌱 I’m currently learning **Data Analyst, Data Science, Product Management**
+- 🌱 I’m currently learning ** AI, Product Management, Data Analyst, Data Science **
 
 - 👨‍💻 All of my projects are available at [https://smtahnimmahir.netlify.app](https://smtahnimmahir.netlify.app)
 
